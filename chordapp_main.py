@@ -28,6 +28,8 @@ def main():
             chordapp_roman_numeral_analysis.main()
         elif choice == "4":
             chordapp_ear_training.main()
+        elif choice == "6":
+            print("Saucer me Daddy!!!")
         elif choice == "5":
             print("Goodbye")
             running = False
